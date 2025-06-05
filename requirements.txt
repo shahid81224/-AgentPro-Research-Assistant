@@ -1,0 +1,4 @@
+openai
+pydantic
+requests # Although not directly used in this simplified version, good to have for potential extensions
+
